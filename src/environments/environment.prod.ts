@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://node-auth-angular.herokuapp.com/api'
+  apiUrl: 'https://angular-node-auth-final-backen.herokuapp.com/api'
 };
